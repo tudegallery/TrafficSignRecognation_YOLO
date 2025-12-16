@@ -1,4 +1,19 @@
+![](./yolov11.webp)
+
 # Traffic Sign Detection using YOLOv11
+
+- [Traffic Sign Detection using YOLOv11](#traffic-sign-detection-using-yolov11)
+  - [Data](#data)
+  - [Model](#model)
+  - [Fine Tuning](#fine-tuning)
+    - [YOLO11n summary (fused)](#yolo11n-summary-fused)
+    - [Run summary](#run-summary)
+  - [Detections](#detections)
+  - [Dependencies](#dependencies)
+  - [Project Setup](#project-setup)
+  - [Limitations](#limitations)
+  - [Conclusion](#conclusion)
+  - [Acknowledgements](#acknowledgements)
 
 ## Data
 
